@@ -1,0 +1,5 @@
+SanaeStar_Rain:
+  Name: 'Refreshing Rain'
+  Description:  |-
+    |When {SelfName} enters the hand|: Gain {Value1} life.
+    |At the end of the turn|: Each enemy gains {Value2} life.
